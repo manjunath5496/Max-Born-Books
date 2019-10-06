@@ -16,6 +16,9 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Max-Born-Books/blob/master/mbn(10).pdf" style="text-decoration:none;">Dynamical Theory of Crystal Lattices </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Max-Born-Books/blob/master/mbn(11).pdf" style="text-decoration:none;">Problems of Atomic Dynamics </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Max-Born-Books/blob/master/mbn(12).pdf" style="text-decoration:none;">Natural Philosophy Of Cause And Chance </a></b></li>
 
 
 </ul>
